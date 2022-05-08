@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "node ./wallet.js add acme Admin && nodemon ./gateway.js",
+    "initAdmin": "node ./wallet.js add "
+  }
+}

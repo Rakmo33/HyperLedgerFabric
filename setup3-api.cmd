@@ -1,0 +1,1 @@
+npm --prefix ./app/sdk/gateway run start
